@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/shzd1vQq)
 # Favorite Song Showcase
 
-Dear students
+Dear students 
 
 create a web application that allows users to share their favorite song by submitting details about the song, including its name, a link to the song on youtube, a brief description of why it's their favorite, and the year they first listened to it.
 
